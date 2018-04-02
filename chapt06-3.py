@@ -7,7 +7,7 @@ import numpy as np
 import codecs
 
 batch_size = 10                # バッチサイズ10
-
+uses_device = -1
 
 cp = np
 
